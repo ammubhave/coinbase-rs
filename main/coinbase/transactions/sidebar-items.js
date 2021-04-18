@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["TransactionStatus","Transactions statuses vary based on the type of the transaction."],["TransactionType",""]],"struct":[["AccountCurrency",""],["Money",""],["Transaction",""]]});
