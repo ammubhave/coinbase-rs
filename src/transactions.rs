@@ -54,6 +54,7 @@ pub enum TransactionType {
     /// Withdrew money from Coinbase Pro
     ProWithdrawal,
     InflationReward,
+    Trade,
 }
 
 /// Transactions statuses vary based on the type of the transaction.
